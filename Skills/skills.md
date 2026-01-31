@@ -22,3 +22,24 @@
 2. Advanced to C++ (2023)
 3. Learned Python (2024)
 4. Currently learning Data Science & ML
+
+
+# 🌐 Web Technologies
+
+## Frontend
+- HTML5 - Advanced
+- CSS3 - Advanced
+- JavaScript - Intermediate
+- Responsive Design
+- CSS Animations
+
+## Backend
+- MySQL - Intermediate
+- Database Design
+- SQL Queries
+
+## Tools
+- Git & GitHub
+- VS Code
+- Chrome DevTools
+- Figma (Basic)
